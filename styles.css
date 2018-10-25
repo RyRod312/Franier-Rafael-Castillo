@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-image: radial-gradient(circle ,red 80%,linen 20%);
+    color: white;
+    cursor: crosshair;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    color: silver;
+    text-shadow: 2px 2px 2px black;
+}
+img{
+    height: 350px;
+    width: 350px;
+    border: double lime 50px;
+}
+h2{
+    font-family: 'Abril Fatface', cursive;
+    color: silver;
+    text-shadow: 2px 2px 2px blue;
+    text-align: left;
+    font-size: 40px;
+}
+ul{
+    list-style: square;
+}
+.answer{
+    text-align: left;
+    color: blue;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px black;
+    font-family: 'Cinzel', serif;
+}
+.red{
+    color: red;
+    
+}
+.last_image{
+    height: 100px;
+    width:100px;
+    border: dotted lime;
+}
+p{
+    color: black;
+    }
